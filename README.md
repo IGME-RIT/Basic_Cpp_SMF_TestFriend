@@ -1,6 +1,6 @@
 # Test Friends
 
-This tutorial illustrates the concept of friend with an example of different ways to access to private number of an object. It also covers issues such as constructor and keyword new/delete.
+This tutorial illustrates the concept of friend with an example of different ways to access to all members of an object. It also covers issues such as constructor and keyword new/delete.
 
 # Setup
 
